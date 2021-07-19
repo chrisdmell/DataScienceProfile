@@ -1,4 +1,4 @@
-# Data science portfolio
+# Data science portfolio - [Resume](https://drive.google.com/file/d/1jLOFrxjyh-qL1ovSsoZrlbCEWYmSa2Fv/view?usp=sharing)
 
 ## Certifications :
 1. Coursera - Applied machine learning using python
