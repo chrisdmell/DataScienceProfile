@@ -24,6 +24,11 @@
          'learning_rate': 0.8,
          'depth': 12,   ##depth of the trees
          'l2_leaf_reg': 30} - Best Params. <Br>
+          
+## Customer chrun analysis of a bill payment app : - Churn data EDA and recommendations to reduce churn. 
+> [EDA and Recommendation PPT](https://drive.google.com/file/d/1uaIJdrLH_VmS7aBQWf2GLVjwedhYvJdC/view?usp=sharing) <br>
+> [Tableau dashboard to track important metrics](https://public.tableau.com/app/profile/chris5331/viz/from_20210801_002/Dashboard1) <br>
+> [Kmeans Clustering for customer segmentation](https://github.com/chrisdmell/Project_DataScience/tree/working_branch/07_cred) <br>
 
 ## [Analytics Vidhya Blogs](https://www.analyticsvidhya.com/blog/author/chrisx10/)
 > Giving back to the DS community through blogs and articles. 
