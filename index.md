@@ -29,6 +29,11 @@
 > [EDA and Recommendation PPT](https://drive.google.com/file/d/1uaIJdrLH_VmS7aBQWf2GLVjwedhYvJdC/view?usp=sharing) <br>
 > [Tableau dashboard to track important metrics](https://public.tableau.com/app/profile/chris5331/viz/from_20210801_002/Dashboard1) <br>
 > [Kmeans Clustering for customer segmentation](https://github.com/chrisdmell/Project_DataScience/tree/working_branch/07_cred) <br>
+          
+## Tableau Public Dashboards:
+1. [Coronavirus tracker (2020-June)](https://public.tableau.com/app/profile/chris5331/viz/NovelCoronaVirusOutbreak-2020/Dashboard1)
+2. [Customer chrun tracker](https://public.tableau.com/app/profile/chris5331/viz/from_20210801_002/Dashboard1)
+3. 
 
 ## [Analytics Vidhya Blogs](https://www.analyticsvidhya.com/blog/author/chrisx10/)
 > Giving back to the DS community through blogs and articles. 
