@@ -37,3 +37,6 @@
 
 ## [Analytics Vidhya Blogs](https://www.analyticsvidhya.com/blog/author/chrisx10/)
 > Giving back to the DS community through blogs and articles. 
+
+## [Important Links](https://github.com/chrisdmell/Project_DataScience/tree/working_branch)
+> Links to important videos/papers/courses etc.
